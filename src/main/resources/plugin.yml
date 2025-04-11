@@ -1,8 +1,8 @@
-name: Sugarcane Panel
-version: '1.0-SNAPSHOT'
+name: "Sugarcane Panel Link"
+version: "1.0-SNAPSHOT"
 main: com.gavinhsmith.sugarcanepanel.Main
-api-version: '1.21'
-prefix: SugarcanePanel
-authors: [ gavinhsmith ]
-description: Connect to the Sugarcane Panel to allow more direct control over the server.
+api-version: "1.21"
+prefix: "Sugarcane Panel Link"
+authors: [gavinhsmith]
+description: "Connect to the Sugarcane Panel to allow more direct control over the server."
 website: https://github.com/SugarcanePanel/plugin
